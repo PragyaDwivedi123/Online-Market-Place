@@ -38,16 +38,19 @@ It allows users to register, login, post products for sale, browse available ite
 Online-Market-Place/
 │
 ├── Frontend/
-│ ├── src/
-│ └── angular.json
+│   ├── src/
+│   ├── angular.json
+│   └── package.json
 │
 ├── Backend/
-│ ├── models/
-│ ├── routes/
-│ ├── controllers/
-│ └── server.js
+│   ├── models/
+│   ├── routes/
+│   ├── controllers/
+│   ├── server.js
+│   └── package.json
 │
 └── README.md
+
 
 
 ---
