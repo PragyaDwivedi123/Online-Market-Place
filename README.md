@@ -33,27 +33,6 @@ It allows users to register, login, post products for sale, browse available ite
 
 ---
 
-## 📂 Project Structure
-
-Online-Market-Place/
-│
-├── Frontend/
-│   ├── src/
-│   ├── angular.json
-│   └── package.json
-│
-├── Backend/
-│   ├── models/
-│   ├── routes/
-│   ├── controllers/
-│   ├── server.js
-│   └── package.json
-│
-└── README.md
-
-
-
----
 
 ## ⚙️ Installation Steps
 
